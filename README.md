@@ -1,2 +1,2 @@
-# Web_Development
-Web_Development assessment GitHub repo creation &amp; push test
+# animal-game
+The Animal Guessing Game That Learns As It Goes.

@@ -1,0 +1,18 @@
+body {background-color: powderblue;}
+h1  {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    }
+h2  {
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    }
+p   {
+        font-family: fantasy;
+        font-size: 17px;
+        font-weight: bold; 
+        line-height: .75;
+        color: mediumorchid;
+    }
+
+    
